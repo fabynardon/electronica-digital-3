@@ -41,7 +41,7 @@
 #define RGU_RESET_ACTIVE_STATUS1  (*((volatile uint32_t *) 0x40053154))
 #define RGU_RESET_CTRL0	          (*((volatile uint32_t *) 0x40053100))
 #define RGU_RESET_ACTIVE_STATUS0  (*((volatile uint32_t *) 0x40053150))
-#define CREG_M0APPMEMMAP	        (*((volatile uint32_t *) 0x40043404))
+#define CREG_M0APPMEMMAP	      (*((volatile uint32_t *) 0x40043404))
 #define CREG_M0SUBMEMMAP          (*((volatile uint32_t *) 0x40043308))
 
 /*******************************************************************

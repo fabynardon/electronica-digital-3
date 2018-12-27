@@ -32,7 +32,7 @@
 #ifndef __APP_MULTICORE_CFG_H_
 #define __APP_MULTICORE_CFG_H_
 
-#include "chip.h"
+#include "board.h"
 
 typedef enum CPUID {
 	CPUID_MIN,
@@ -49,9 +49,6 @@ typedef enum CPUID {
 #ifdef LPC43XX_CORE_M0SUB
 #define CPUID_CURR     CPUID_M0SUB
 #endif
-
-#define CortexM0	CPUID_M0APP
-#define CortexM4 	CPUID_M4
 
 /* Size of applications in flash */
 #define IMG_SZ_M4      (32 * 1024)

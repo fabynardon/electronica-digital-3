@@ -1,6 +1,5 @@
-#include "board.h"
-#include <ipc_msg.h>
 #include <app_multicore_cfg.h>
+#include <ipc_msg.h>
 #include "cr_start_m0.h"
 #include "arm_math.h"
 #include "math_helper.h"
