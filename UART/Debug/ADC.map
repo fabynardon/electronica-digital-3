@@ -1,0 +1,1961 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                              ./src/ADC.o (Chip_ADC_Init)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              ./src/ADC.o (SystemCoreClockUpdate)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o) (Chip_Clock_GetClockInputHz)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                              ./src/sysinit.o (fpuInit)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+                              ./src/ADC.o (Chip_TIMER_Init)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+                              ./src/edu-ciaa.o (Chip_UART_Init)
+C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+                              C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o) (RingBuffer_Insert)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+                              C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o) (memcpy)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+                              C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o) (memset)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc43xx.o (__main)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+                              C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o) (__aeabi_uldivmod)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .group         0x00000000        0xc ./src/ADC.o
+ .text          0x00000000        0x0 ./src/ADC.o
+ .data          0x00000000        0x0 ./src/ADC.o
+ .bss           0x00000000        0x0 ./src/ADC.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc43xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x00000000      0xa78 ./src/cr_startup_lpc43xx.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/edu-ciaa.o
+ .text          0x00000000        0x0 ./src/edu-ciaa.o
+ .data          0x00000000        0x0 ./src/edu-ciaa.o
+ .bss           0x00000000        0x0 ./src/edu-ciaa.o
+ .text.Chip_GPIO_SetPinState
+                0x00000000       0x38 ./src/edu-ciaa.o
+ .text.Chip_GPIO_GetPinState
+                0x00000000       0x36 ./src/edu-ciaa.o
+ .text.Chip_GPIO_SetPinToggle
+                0x00000000       0x32 ./src/edu-ciaa.o
+ .text.Chip_UART_ReadByte
+                0x00000000       0x1a ./src/edu-ciaa.o
+ .text.Board_UARTGetChar
+                0x00000000       0x2c ./src/edu-ciaa.o
+ .text.Board_Led_Set
+                0x00000000       0x3c ./src/edu-ciaa.o
+ .text.Board_Led_Test
+                0x00000000       0x38 ./src/edu-ciaa.o
+ .text.Board_Led_Toggle
+                0x00000000       0x34 ./src/edu-ciaa.o
+ .text.Board_Button_Test
+                0x00000000       0x3c ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0xa78 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x10 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x10 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x12d ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x5b2 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x22 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x7b ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x28 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x3b ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x2d ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x42 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0xd39 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x2bc ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x112 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x11 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x2a ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x16 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x2e6 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x82 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x13d ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x198 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x34 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x58 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x236 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x572 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x16 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x18a ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x88 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x1b9 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x1da ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x40 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x1c ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x2e ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x2e ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x22 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x201 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0xe0 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x34c ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0xdc ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0xc4 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x94 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0xb8 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x4c ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x16 ./src/edu-ciaa.o
+ .debug_macro   0x00000000      0x328 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x3a ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0xd0 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x18 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x22 ./src/edu-ciaa.o
+ .debug_macro   0x00000000       0x40 ./src/edu-ciaa.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0xa78 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x28 ./src/sysinit.o
+ .debug_macro   0x00000000       0x3b ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000      0xd39 ./src/sysinit.o
+ .debug_macro   0x00000000      0x2bc ./src/sysinit.o
+ .debug_macro   0x00000000      0x112 ./src/sysinit.o
+ .debug_macro   0x00000000       0x11 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2a ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x2e6 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x13d ./src/sysinit.o
+ .debug_macro   0x00000000      0x198 ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000       0x58 ./src/sysinit.o
+ .debug_macro   0x00000000      0x236 ./src/sysinit.o
+ .debug_macro   0x00000000      0x572 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x18a ./src/sysinit.o
+ .debug_macro   0x00000000       0x88 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1da ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1c ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x201 ./src/sysinit.o
+ .debug_macro   0x00000000       0xe0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x34c ./src/sysinit.o
+ .debug_macro   0x00000000       0xdc ./src/sysinit.o
+ .debug_macro   0x00000000       0xc4 ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0xd0 ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text.Chip_ADC_DeInit
+                0x00000000       0x2c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text.Chip_ADC_ReadByte
+                0x00000000       0x32 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_CREG_EnableUSB0Phy
+                0x00000000       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .rodata.usbPLLSetup
+                0x00000000       0x14 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB_PllSetup
+                0x00000000       0x44 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB0_Init
+                0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .text.Chip_USB1_Init
+                0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableMainPLL
+                0x00000000       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_TestMainPLLMultiplier
+                0x00000000       0x48 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableCrystal
+                0x00000000       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLLHz
+                0x00000000      0x126 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLLMult
+                0x00000000       0xfc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetDivider
+                0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetBaseClockOpts
+                0x00000000       0x84 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableBaseClock
+                0x00000000       0x3c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisableBaseClock
+                0x00000000       0x3c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_IsBaseClockEnabled
+                0x00000000       0x44 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_RTCEnable
+                0x00000000       0x2c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_Disable
+                0x00000000       0x60 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_StartPowerDown
+                0x00000000       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_ClearPowerDown
+                0x00000000       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetEMCRate
+                0x00000000       0x48 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_SetupPLL
+                0x00000000       0x7c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnablePLL
+                0x00000000       0x38 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_DisablePLL
+                0x00000000       0x38 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetPLLStatus
+                0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .text.Chip_TIMER_DeInit
+                0x00000000       0x1e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.RingBuffer_IsEmpty
+                0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SendByte
+                0x00000000       0x1e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ReadByte
+                0x00000000       0x1a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_IntEnable
+                0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_IntDisable
+                0x00000000       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ReadIntIDReg
+                0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ReadLineStatus
+                0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SetAutoBaudReg
+                0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .bss.ABsyncSts
+                0x00000000        0x1 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ABIntHandler
+                0x00000000       0x6c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_DeInit
+                0x00000000       0x30 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_Send
+                0x00000000       0x50 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_CheckBusy
+                0x00000000       0x26 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SendBlocking
+                0x00000000       0x4a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_Read
+                0x00000000       0x52 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ReadBlocking
+                0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SetBaud
+                0x00000000       0x6c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_RXIntHandlerRB
+                0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_TXIntHandlerRB
+                0x00000000       0x54 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SendRB
+                0x00000000       0x60 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ReadRB
+                0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_IRQRBHandler
+                0x00000000       0x4a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_GetABEOStatus
+                0x00000000       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ABCmd
+                0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0xd39 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2bc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x112 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x2e6 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x13d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x198 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x236 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x572 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x18a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x1da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x201 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0xe0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x34c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0xdc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0xc4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .group         0x00000000        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .data          0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .bss           0x00000000        0x0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_GetCount
+                0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_GetFree
+                0x00000000       0x1e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_IsFull
+                0x00000000       0x26 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_IsEmpty
+                0x00000000       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_Init
+                0x00000000       0x3c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_Insert
+                0x00000000       0x5c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_InsertMult
+                0x00000000      0x122 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_Pop
+                0x00000000       0x5c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text.RingBuffer_PopMult
+                0x00000000      0x122 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_info    0x00000000      0x379 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_abbrev  0x00000000      0x162 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_aranges
+                0x00000000       0x60 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_ranges  0x00000000       0x50 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000       0x83 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000       0x74 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_line    0x00000000      0x234 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_str     0x00000000     0x481f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .comment       0x00000000       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .debug_frame   0x00000000      0x164 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .ARM.attributes
+                0x00000000       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(ring_buffer.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .text.memcpy   0x00000000        0x4 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x7f c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x37 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x34 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlashA512       0x1a000000         0x00080000         xr
+MFlashB512       0x1b000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamLoc40         0x10080000         0x0000a000         xrw
+RamAHB32         0x20000000         0x00008000         xrw
+RamAHB16         0x20008000         0x00004000         xrw
+RamAHB_ETB16     0x2000c000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/ADC.o
+LOAD ./src/cr_startup_lpc43xx.o
+LOAD ./src/edu-ciaa.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a
+END GROUP
+                0x1a000000                __base_MFlashA512 = 0x1a000000
+                0x1a000000                __base_Flash = 0x1a000000
+                0x1a080000                __top_MFlashA512 = 0x1a080000
+                0x1a080000                __top_Flash = 0x1a080000
+                0x1b000000                __base_MFlashB512 = 0x1b000000
+                0x1b000000                __base_Flash2 = 0x1b000000
+                0x1b080000                __top_MFlashB512 = 0x1b080000
+                0x1b080000                __top_Flash2 = 0x1b080000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x10080000                __base_RamLoc40 = 0x10080000
+                0x10080000                __base_RAM2 = 0x10080000
+                0x1008a000                __top_RamLoc40 = 0x1008a000
+                0x1008a000                __top_RAM2 = 0x1008a000
+                0x20000000                __base_RamAHB32 = 0x20000000
+                0x20000000                __base_RAM3 = 0x20000000
+                0x20008000                __top_RamAHB32 = 0x20008000
+                0x20008000                __top_RAM3 = 0x20008000
+                0x20008000                __base_RamAHB16 = 0x20008000
+                0x20008000                __base_RAM4 = 0x20008000
+                0x2000c000                __top_RamAHB16 = 0x2000c000
+                0x2000c000                __top_RAM4 = 0x2000c000
+                0x2000c000                __base_RamAHB_ETB16 = 0x2000c000
+                0x2000c000                __base_RAM5 = 0x2000c000
+                0x20010000                __top_RamAHB_ETB16 = 0x20010000
+                0x20010000                __top_RAM5 = 0x20010000
+
+.text_Flash2    0x1b000000        0x0
+ FILL mask 0xff
+ *(.text_Flash2*)
+ *(.text_MFlashB512*)
+ *(.text.$Flash2*)
+ *(.text.$MFlashB512*)
+ *(.rodata.$Flash2*)
+ *(.rodata.$MFlashB512*)
+
+.text           0x1a000000     0x2080
+ FILL mask 0xff
+                0x1a000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x1a000000      0x114 ./src/cr_startup_lpc43xx.o
+                0x1a000000                g_pfnVectors
+                0x1a000114                . = ALIGN (0x4)
+                0x1a000114                __section_table_start = .
+                0x1a000114                __data_section_table = .
+                0x1a000114        0x4 LONG 0x1a002080 LOADADDR (.data)
+                0x1a000118        0x4 LONG 0x10000000 ADDR (.data)
+                0x1a00011c        0x4 LONG 0x0 SIZEOF (.data)
+                0x1a000120        0x4 LONG 0x1a002080 LOADADDR (.data_RAM2)
+                0x1a000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
+                0x1a000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x1a00012c        0x4 LONG 0x1a002080 LOADADDR (.data_RAM3)
+                0x1a000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
+                0x1a000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
+                0x1a000138        0x4 LONG 0x1a002080 LOADADDR (.data_RAM4)
+                0x1a00013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
+                0x1a000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
+                0x1a000144        0x4 LONG 0x1a002080 LOADADDR (.data_RAM5)
+                0x1a000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
+                0x1a00014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
+                0x1a000150                __data_section_table_end = .
+                0x1a000150                __bss_section_table = .
+                0x1a000150        0x4 LONG 0x10000000 ADDR (.bss)
+                0x1a000154        0x4 LONG 0x18 SIZEOF (.bss)
+                0x1a000158        0x4 LONG 0x10080000 ADDR (.bss_RAM2)
+                0x1a00015c        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x1a000160        0x4 LONG 0x20000000 ADDR (.bss_RAM3)
+                0x1a000164        0x4 LONG 0x0 SIZEOF (.bss_RAM3)
+                0x1a000168        0x4 LONG 0x20008000 ADDR (.bss_RAM4)
+                0x1a00016c        0x4 LONG 0x0 SIZEOF (.bss_RAM4)
+                0x1a000170        0x4 LONG 0x2000c000 ADDR (.bss_RAM5)
+                0x1a000174        0x4 LONG 0x0 SIZEOF (.bss_RAM5)
+                0x1a000178                __bss_section_table_end = .
+                0x1a000178                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x1a000178       0xb8 ./src/cr_startup_lpc43xx.o
+                0x1a000178                data_init
+                0x1a0001bc                bss_init
+                0x1a0001f4                NMI_Handler
+                0x1a0001fa                HardFault_Handler
+                0x1a000200                MemManage_Handler
+                0x1a000206                BusFault_Handler
+                0x1a00020c                UsageFault_Handler
+                0x1a000212                SVC_Handler
+                0x1a000218                DebugMon_Handler
+                0x1a00021e                PendSV_Handler
+                0x1a000224                SysTick_Handler
+                0x1a00022a                I2C0_IRQHandler
+                0x1a00022a                I2C1_IRQHandler
+                0x1a00022a                UART1_IRQHandler
+                0x1a00022a                GPIO5_IRQHandler
+                0x1a00022a                CAN1_IRQHandler
+                0x1a00022a                USB1_IRQHandler
+                0x1a00022a                I2S0_IRQHandler
+                0x1a00022a                UART0_IRQHandler
+                0x1a00022a                FLASH_EEPROM_IRQHandler
+                0x1a00022a                SGPIO_IRQHandler
+                0x1a00022a                ADCHS_IRQHandler
+                0x1a00022a                GPIO6_IRQHandler
+                0x1a00022a                IntDefaultHandler
+                0x1a00022a                GPIO1_IRQHandler
+                0x1a00022a                ATIMER_IRQHandler
+                0x1a00022a                ADC1_IRQHandler
+                0x1a00022a                RTC_IRQHandler
+                0x1a00022a                TIMER0_IRQHandler
+                0x1a00022a                SPI_IRQHandler
+                0x1a00022a                LCD_IRQHandler
+                0x1a00022a                RIT_IRQHandler
+                0x1a00022a                TIMER1_IRQHandler
+                0x1a00022a                UART2_IRQHandler
+                0x1a00022a                GPIO2_IRQHandler
+                0x1a00022a                I2S1_IRQHandler
+                0x1a00022a                SSP1_IRQHandler
+                0x1a00022a                USB0_IRQHandler
+                0x1a00022a                GPIO3_IRQHandler
+                0x1a00022a                SCT_IRQHandler
+                0x1a00022a                SDIO_IRQHandler
+                0x1a00022a                WDT_IRQHandler
+                0x1a00022a                SSP0_IRQHandler
+                0x1a00022a                GPIO7_IRQHandler
+                0x1a00022a                SPIFI_IRQHandler
+                0x1a00022a                QEI_IRQHandler
+                0x1a00022a                ETH_IRQHandler
+                0x1a00022a                CAN0_IRQHandler
+                0x1a00022a                GINT0_IRQHandler
+                0x1a00022a                DAC_IRQHandler
+                0x1a00022a                M0SUB_IRQHandler
+                0x1a00022a                GPIO0_IRQHandler
+                0x1a00022a                DMA_IRQHandler
+                0x1a00022a                EVRT_IRQHandler
+                0x1a00022a                TIMER2_IRQHandler
+                0x1a00022a                UART3_IRQHandler
+                0x1a00022a                MCPWM_IRQHandler
+                0x1a00022a                M0APP_IRQHandler
+                0x1a00022a                GINT1_IRQHandler
+                0x1a00022a                GPIO4_IRQHandler
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x1a000230       0x34 ./src/ADC.o
+ .text.NVIC_ClearPendingIRQ
+                0x1a000264       0x34 ./src/ADC.o
+ .text.Chip_RGU_TriggerReset
+                0x1a000298       0x34 ./src/ADC.o
+ .text.Chip_RGU_InReset
+                0x1a0002cc       0x40 ./src/ADC.o
+ .text.Chip_TIMER_MatchPending
+                0x1a00030c       0x34 ./src/ADC.o
+ .text.Chip_TIMER_ClearMatch
+                0x1a000340       0x28 ./src/ADC.o
+ .text.Chip_TIMER_Enable
+                0x1a000368       0x20 ./src/ADC.o
+ .text.Chip_TIMER_SetMatch
+                0x1a000388       0x28 ./src/ADC.o
+ .text.Chip_TIMER_MatchEnableInt
+                0x1a0003b0       0x34 ./src/ADC.o
+ .text.Chip_TIMER_ResetOnMatchEnable
+                0x1a0003e4       0x36 ./src/ADC.o
+ *fill*         0x1a00041a        0x2 ff
+ .text.ADC_setup
+                0x1a00041c       0x58 ./src/ADC.o
+                0x1a00041c                ADC_setup
+ .text.ADC0_IRQHandler
+                0x1a000474       0x40 ./src/ADC.o
+                0x1a000474                ADC0_IRQHandler
+ .text.TIMER_setup
+                0x1a0004b4       0x6c ./src/ADC.o
+                0x1a0004b4                TIMER_setup
+ .text.TIMER3_IRQHandler
+                0x1a000520       0x2c ./src/ADC.o
+                0x1a000520                TIMER3_IRQHandler
+ .text.main     0x1a00054c       0x24 ./src/ADC.o
+                0x1a00054c                main
+ .text.ResetISR
+                0x1a000570       0xc4 ./src/cr_startup_lpc43xx.o
+                0x1a000570                ResetISR
+ .text.Chip_SCU_PinMuxSet
+                0x1a000634       0x34 ./src/edu-ciaa.o
+ .text.Chip_SCU_SetPinMuxing
+                0x1a000668       0x4a ./src/edu-ciaa.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x1a0006b2       0x3e ./src/edu-ciaa.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x1a0006f0       0x40 ./src/edu-ciaa.o
+ .text.Chip_UART_TXEnable
+                0x1a000730       0x1a ./src/edu-ciaa.o
+ .text.Chip_UART_SendByte
+                0x1a00074a       0x1e ./src/edu-ciaa.o
+ .text.Chip_UART_ConfigData
+                0x1a000768       0x1c ./src/edu-ciaa.o
+ .text.Chip_UART_ReadLineStatus
+                0x1a000784       0x18 ./src/edu-ciaa.o
+ .text.Board_Init
+                0x1a00079c       0x18 ./src/edu-ciaa.o
+                0x1a00079c                Board_Init
+ .text.Board_Debug_Init
+                0x1a0007b4       0x2c ./src/edu-ciaa.o
+                0x1a0007b4                Board_Debug_Init
+ .text.Board_UARTPutChar
+                0x1a0007e0       0x34 ./src/edu-ciaa.o
+                0x1a0007e0                Board_UARTPutChar
+ .text.Board_UARTPutSTR
+                0x1a000814       0x28 ./src/edu-ciaa.o
+                0x1a000814                Board_UARTPutSTR
+ .text.Board_Leds_Init
+                0x1a00083c       0x44 ./src/edu-ciaa.o
+                0x1a00083c                Board_Leds_Init
+ .text.Board_Buttons_Init
+                0x1a000880       0x44 ./src/edu-ciaa.o
+                0x1a000880                Board_Buttons_Init
+ .text.Board_SetupMuxing
+                0x1a0008c4       0x14 ./src/edu-ciaa.o
+                0x1a0008c4                Board_SetupMuxing
+ .text.SystemInit
+                0x1a0008d8       0x28 ./src/sysinit.o
+                0x1a0008d8                SystemInit
+ .text.getFullConvClk
+                0x1a000900       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text.Chip_ADC_GetClockIndex
+                0x1a000910       0x2c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text.getClkDiv
+                0x1a00093c       0x66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .text.setStartMode
+                0x1a0009a2       0x2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a0009a2                setStartMode
+ .text.readAdcVal
+                0x1a0009d0       0x42 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a0009d0                readAdcVal
+ *fill*         0x1a000a12        0x2 ff
+ .text.Chip_ADC_Init
+                0x1a000a14       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000a14                Chip_ADC_Init
+ .text.Chip_ADC_ReadValue
+                0x1a000a9c       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000a9c                Chip_ADC_ReadValue
+ .text.Chip_ADC_ReadStatus
+                0x1a000ac0       0x78 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000ac0                Chip_ADC_ReadStatus
+ .text.Chip_ADC_Int_SetChannelCmd
+                0x1a000b38       0x4a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000b38                Chip_ADC_Int_SetChannelCmd
+ .text.Chip_ADC_SetStartMode
+                0x1a000b82       0x4e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000b82                Chip_ADC_SetStartMode
+ .text.Chip_ADC_SetSampleRate
+                0x1a000bd0       0x64 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000bd0                Chip_ADC_SetSampleRate
+ .text.Chip_ADC_SetResolution
+                0x1a000c34       0x2a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000c34                Chip_ADC_SetResolution
+ .text.Chip_ADC_EnableChannel
+                0x1a000c5e       0x56 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000c5e                Chip_ADC_EnableChannel
+ .text.Chip_ADC_SetBurstCmd
+                0x1a000cb4       0x3c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                0x1a000cb4                Chip_ADC_SetBurstCmd
+ .text.SystemCoreClockUpdate
+                0x1a000cf0       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x1a000cf0                SystemCoreClockUpdate
+ .text.ABS      0x1a000d08       0x22 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *fill*         0x1a000d2a        0x2 ff
+ .text.pll_calc_divs
+                0x1a000d2c      0x124 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.pll_get_frac
+                0x1a000e50      0x176 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_GetDivRate
+                0x1a000fc6       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *fill*         0x1a001006        0x2 ff
+ .text.Chip_Clock_FindBaseClock
+                0x1a001008       0x90 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x1a001098       0x70 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001098                Chip_Clock_EnableCrystal
+ .text.Chip_Clock_CalcMainPLLValue
+                0x1a001108       0xd8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001108                Chip_Clock_CalcMainPLLValue
+ .text.Chip_Clock_GetMainPLLHz
+                0x1a0011e0       0xc0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a0011e0                Chip_Clock_GetMainPLLHz
+ .text.Chip_Clock_GetDividerSource
+                0x1a0012a0       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a0012a0                Chip_Clock_GetDividerSource
+ .text.Chip_Clock_GetDividerDivisor
+                0x1a0012e0       0x38 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a0012e0                Chip_Clock_GetDividerDivisor
+ .text.Chip_Clock_GetClockInputHz
+                0x1a001318      0x140 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001318                Chip_Clock_GetClockInputHz
+ .text.Chip_Clock_GetBaseClocktHz
+                0x1a001458       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001458                Chip_Clock_GetBaseClocktHz
+ .text.Chip_Clock_SetBaseClock
+                0x1a00147c       0x9c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a00147c                Chip_Clock_SetBaseClock
+ .text.Chip_Clock_GetBaseClock
+                0x1a001518       0x4c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001518                Chip_Clock_GetBaseClock
+ .text.Chip_Clock_EnableOpts
+                0x1a001564       0x7c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001564                Chip_Clock_EnableOpts
+ .text.Chip_Clock_Enable
+                0x1a0015e0       0x60 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a0015e0                Chip_Clock_Enable
+ .text.Chip_Clock_GetRate
+                0x1a001640       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                0x1a001640                Chip_Clock_GetRate
+ .text.fpuInit  0x1a0016c8       0x74 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                0x1a0016c8                fpuInit
+ .text.Chip_Clock_DisableMainPLL
+                0x1a00173c       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_Clock_SetupMainPLL
+                0x1a00175c       0x44 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_Clock_MainPLLLocked
+                0x1a0017a0       0x24 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .text.Chip_SetupCoreClock
+                0x1a0017c4      0x15c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a0017c4                Chip_SetupCoreClock
+ .text.Chip_SetupIrcClocking
+                0x1a001920       0x18 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a001920                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x1a001938        0xc C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                0x1a001938                Chip_SystemInit
+ .text.Chip_TIMER_GetClockIndex
+                0x1a001944       0x50 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .text.Chip_TIMER_Init
+                0x1a001994       0x1e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+                0x1a001994                Chip_TIMER_Init
+ .text.Chip_TIMER_Reset
+                0x1a0019b2       0x3c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+                0x1a0019b2                Chip_TIMER_Reset
+ .text.Chip_TIMER_ExtMatchControlSet
+                0x1a0019ee       0x72 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+                0x1a0019ee                Chip_TIMER_ExtMatchControlSet
+ .text.Chip_UART_TXDisable
+                0x1a001a60       0x1a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SetupFIFOS
+                0x1a001a7a       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_ConfigData
+                0x1a001a96       0x1c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_EnableDivisorAccess
+                0x1a001ab2       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_DisableDivisorAccess
+                0x1a001ad2       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_SetDivisorLatches
+                0x1a001af2       0x28 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ *fill*         0x1a001b1a        0x2 ff
+ .text.Chip_UART_GetIndex
+                0x1a001b1c       0x60 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .text.Chip_UART_Init
+                0x1a001b7c       0x84 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+                0x1a001b7c                Chip_UART_Init
+ .text.Chip_UART_SetBaudFDR
+                0x1a001c00      0x16c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+                0x1a001c00                Chip_UART_SetBaudFDR
+ .text.memset   0x1a001d6c        0x4 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+                0x1a001d6c                memset
+ .text.__weak_main
+                0x1a001d70        0x4 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+                0x1a001d70                __weak_main
+                0x1a001d70                __main
+ .text.__aeabi_division_uldivmod
+                0x1a001d74      0x174 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+                0x1a001d74                __aeabi_uldivmod
+                0x1a001d78                __bhs_ldivmod1
+ .text.__aeabi_division_idiv0
+                0x1a001ee8        0x2 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+                0x1a001ee8                __aeabi_idiv0
+ .text.__aeabi_memset_lowlevel
+                0x1a001eea       0x32 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+                0x1a001eea                __aeabi_lowlevel_memset
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x1a001f1c       0x47 ./src/ADC.o
+ *fill*         0x1a001f63        0x1 ff
+ .rodata.gpioLEDBits
+                0x1a001f64        0xc ./src/edu-ciaa.o
+ .rodata.gpioBUTTONBits
+                0x1a001f70        0x8 ./src/edu-ciaa.o
+ .rodata.pinmuxing
+                0x1a001f78       0x30 ./src/edu-ciaa.o
+ .rodata.ExtRateIn
+                0x1a001fa8        0x4 ./src/sysinit.o
+                0x1a001fa8                ExtRateIn
+ .rodata.OscRateIn
+                0x1a001fac        0x4 ./src/sysinit.o
+                0x1a001fac                OscRateIn
+ .rodata.periph_to_base
+                0x1a001fb0       0x6c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .rodata        0x1a00201c        0xa C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *fill*         0x1a002026        0x2 ff
+ .rodata.InitClkStates
+                0x1a002028       0x48 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .rodata.UART_PClock
+                0x1a002070        0x8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .rodata.UART_BClock
+                0x1a002078        0x8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+                0x1a002080                . = ALIGN (0x4)
+
+.glue_7         0x1a002080        0x0
+ .glue_7        0x1a002080        0x0 linker stubs
+
+.glue_7t        0x1a002080        0x0
+ .glue_7t       0x1a002080        0x0 linker stubs
+
+.vfp11_veneer   0x1a002080        0x0
+ .vfp11_veneer  0x1a002080        0x0 linker stubs
+
+.v4_bx          0x1a002080        0x0
+ .v4_bx         0x1a002080        0x0 linker stubs
+
+.iplt           0x1a002080        0x0
+ .iplt          0x1a002080        0x0 ./src/ADC.o
+
+.rel.dyn        0x1a002080        0x0
+ .rel.iplt      0x1a002080        0x0 ./src/ADC.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x1a002080                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x1a002080                __exidx_end = .
+                0x1a002080                _etext = .
+
+.data_RAM2      0x10080000        0x0 load address 0x1a002080
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamLoc40)
+ *(.data.$RAM2*)
+ *(.data.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.data_RAM3      0x20000000        0x0 load address 0x1a002080
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM3, .)
+ *(.ramfunc.$RAM3)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM3*)
+ *(.data.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM3, .)
+
+.data_RAM4      0x20008000        0x0 load address 0x1a002080
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM4, .)
+ *(.ramfunc.$RAM4)
+ *(.ramfunc.$RamAHB16)
+ *(.data.$RAM4*)
+ *(.data.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM4, .)
+
+.data_RAM5      0x2000c000        0x0 load address 0x1a002080
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM5, .)
+ *(.ramfunc.$RAM5)
+ *(.ramfunc.$RamAHB_ETB16)
+ *(.data.$RAM5*)
+ *(.data.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM5, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x0 load address 0x1a002080
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _edata = .
+
+.igot.plt       0x10000000        0x0 load address 0x1a002080
+ .igot.plt      0x10000000        0x0 ./src/ADC.o
+
+.bss_RAM2       0x10080000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamLoc40*)
+                0x10080000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss_RAM3       0x20000000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM3, .)
+ *(.bss.$RAM3*)
+ *(.bss.$RamAHB32*)
+                0x20000000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM3, .)
+
+.bss_RAM4       0x20008000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM4, .)
+ *(.bss.$RAM4*)
+ *(.bss.$RamAHB16*)
+                0x20008000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM4, .)
+
+.bss_RAM5       0x2000c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM5, .)
+ *(.bss.$RAM5*)
+ *(.bss.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM5, .)
+
+.bss            0x10000000       0x18
+                0x10000000                _bss = .
+ *(.bss*)
+ .bss.data      0x10000000        0x2 ./src/ADC.o
+                0x10000000                data
+ *fill*         0x10000002        0x2 
+ .bss.ADCSetup.10208
+                0x10000004        0x8 ./src/ADC.o
+ .bss.audio_usb_pll_freq
+                0x1000000c        0x8 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ *(COMMON)
+ COMMON         0x10000014        0x4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                0x10000014                SystemCoreClock
+                0x10000018                . = ALIGN (0x4)
+                0x10000018                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x10080000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamLoc40*)
+                0x10080000                . = ALIGN (0x4)
+
+.noinit_RAM3    0x20000000        0x0
+ *(.noinit.$RAM3*)
+ *(.noinit.$RamAHB32*)
+                0x20000000                . = ALIGN (0x4)
+
+.noinit_RAM4    0x20008000        0x0
+ *(.noinit.$RAM4*)
+ *(.noinit.$RamAHB16*)
+                0x20008000                . = ALIGN (0x4)
+
+.noinit_RAM5    0x2000c000        0x0
+ *(.noinit.$RAM5*)
+ *(.noinit.$RamAHB_ETB16*)
+                0x2000c000                . = ALIGN (0x4)
+
+.noinit         0x10000018        0x0
+                0x10000018                _noinit = .
+ *(.noinit*)
+                0x10000018                . = ALIGN (0x4)
+                0x10000018                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0x53ff708a                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x1a000000                _image_start = LOADADDR (.text)
+                0x1a002080                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00002080                _image_size = (_image_end - _image_start)
+OUTPUT(ADC.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x7138
+ .debug_info    0x00000000      0xf02 ./src/ADC.o
+ .debug_info    0x00000f02      0x299 ./src/cr_startup_lpc43xx.o
+ .debug_info    0x0000119b      0xee9 ./src/edu-ciaa.o
+ .debug_info    0x00002084      0x5fa ./src/sysinit.o
+ .debug_info    0x0000267e      0x9af C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_info    0x0000302d      0xa80 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_info    0x00003aad     0x15c3 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_info    0x00005070      0x156 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_info    0x000051c6      0x95a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_info    0x00005b20      0x517 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_info    0x00006037     0x1101 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_abbrev   0x00000000     0x1437
+ .debug_abbrev  0x00000000      0x28f ./src/ADC.o
+ .debug_abbrev  0x0000028f      0x10c ./src/cr_startup_lpc43xx.o
+ .debug_abbrev  0x0000039b      0x2a1 ./src/edu-ciaa.o
+ .debug_abbrev  0x0000063c       0xf9 ./src/sysinit.o
+ .debug_abbrev  0x00000735      0x1e0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_abbrev  0x00000915      0x17b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_abbrev  0x00000a90      0x2db C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_abbrev  0x00000d6b       0xaa C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_abbrev  0x00000e15      0x1af C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_abbrev  0x00000fc4      0x17a C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_abbrev  0x0000113e      0x2f9 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_aranges  0x00000000      0x5e0
+ .debug_aranges
+                0x00000000       0x90 ./src/ADC.o
+ .debug_aranges
+                0x00000090       0x80 ./src/cr_startup_lpc43xx.o
+ .debug_aranges
+                0x00000110       0xd8 ./src/edu-ciaa.o
+ .debug_aranges
+                0x000001e8       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000208       0x98 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_aranges
+                0x000002a0       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_aranges
+                0x000002e0      0x138 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_aranges
+                0x00000418       0x20 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_aranges
+                0x00000438       0x50 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_aranges
+                0x00000488       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_aranges
+                0x000004c8      0x118 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_ranges   0x00000000      0x560
+ .debug_ranges  0x00000000       0x80 ./src/ADC.o
+ .debug_ranges  0x00000080       0x70 ./src/cr_startup_lpc43xx.o
+ .debug_ranges  0x000000f0       0xc8 ./src/edu-ciaa.o
+ .debug_ranges  0x000001b8       0x10 ./src/sysinit.o
+ .debug_ranges  0x000001c8       0x88 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_ranges  0x00000250       0x30 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_ranges  0x00000280      0x140 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_ranges  0x000003c0       0x10 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_ranges  0x000003d0       0x40 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_ranges  0x00000410       0x30 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_ranges  0x00000440      0x120 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_macro    0x00000000     0x6c90
+ .debug_macro   0x00000000      0x308 ./src/ADC.o
+ .debug_macro   0x00000308      0xa78 ./src/ADC.o
+ .debug_macro   0x00000d80       0x10 ./src/ADC.o
+ .debug_macro   0x00000d90       0x10 ./src/ADC.o
+ .debug_macro   0x00000da0      0x12d ./src/ADC.o
+ .debug_macro   0x00000ecd      0x5b2 ./src/ADC.o
+ .debug_macro   0x0000147f       0x22 ./src/ADC.o
+ .debug_macro   0x000014a1       0x7b ./src/ADC.o
+ .debug_macro   0x0000151c       0x28 ./src/ADC.o
+ .debug_macro   0x00001544       0x3b ./src/ADC.o
+ .debug_macro   0x0000157f       0x2d ./src/ADC.o
+ .debug_macro   0x000015ac       0x42 ./src/ADC.o
+ .debug_macro   0x000015ee      0xd39 ./src/ADC.o
+ .debug_macro   0x00002327      0x2bc ./src/ADC.o
+ .debug_macro   0x000025e3      0x112 ./src/ADC.o
+ .debug_macro   0x000026f5       0x11 ./src/ADC.o
+ .debug_macro   0x00002706       0x2a ./src/ADC.o
+ .debug_macro   0x00002730       0x16 ./src/ADC.o
+ .debug_macro   0x00002746      0x2e6 ./src/ADC.o
+ .debug_macro   0x00002a2c       0x82 ./src/ADC.o
+ .debug_macro   0x00002aae      0x13d ./src/ADC.o
+ .debug_macro   0x00002beb      0x198 ./src/ADC.o
+ .debug_macro   0x00002d83       0x34 ./src/ADC.o
+ .debug_macro   0x00002db7       0x58 ./src/ADC.o
+ .debug_macro   0x00002e0f      0x236 ./src/ADC.o
+ .debug_macro   0x00003045      0x572 ./src/ADC.o
+ .debug_macro   0x000035b7       0x16 ./src/ADC.o
+ .debug_macro   0x000035cd      0x18a ./src/ADC.o
+ .debug_macro   0x00003757       0x88 ./src/ADC.o
+ .debug_macro   0x000037df      0x1b9 ./src/ADC.o
+ .debug_macro   0x00003998      0x1da ./src/ADC.o
+ .debug_macro   0x00003b72       0x40 ./src/ADC.o
+ .debug_macro   0x00003bb2       0x1c ./src/ADC.o
+ .debug_macro   0x00003bce       0x2e ./src/ADC.o
+ .debug_macro   0x00003bfc       0x2e ./src/ADC.o
+ .debug_macro   0x00003c2a       0x22 ./src/ADC.o
+ .debug_macro   0x00003c4c      0x201 ./src/ADC.o
+ .debug_macro   0x00003e4d       0xe0 ./src/ADC.o
+ .debug_macro   0x00003f2d      0x34c ./src/ADC.o
+ .debug_macro   0x00004279       0xdc ./src/ADC.o
+ .debug_macro   0x00004355       0xc4 ./src/ADC.o
+ .debug_macro   0x00004419       0x94 ./src/ADC.o
+ .debug_macro   0x000044ad       0xb8 ./src/ADC.o
+ .debug_macro   0x00004565       0x4c ./src/ADC.o
+ .debug_macro   0x000045b1       0x16 ./src/ADC.o
+ .debug_macro   0x000045c7      0x328 ./src/ADC.o
+ .debug_macro   0x000048ef       0x3a ./src/ADC.o
+ .debug_macro   0x00004929       0xd0 ./src/ADC.o
+ .debug_macro   0x000049f9       0x18 ./src/ADC.o
+ .debug_macro   0x00004a11       0x22 ./src/ADC.o
+ .debug_macro   0x00004a33       0x40 ./src/ADC.o
+ .debug_macro   0x00004a73       0x1d ./src/cr_startup_lpc43xx.o
+ .debug_macro   0x00004a90      0x2de ./src/edu-ciaa.o
+ .debug_macro   0x00004d6e      0x2da ./src/sysinit.o
+ .debug_macro   0x00005048      0x2da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00005322      0xa66 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_macro   0x00005d88      0x2da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_macro   0x00006062      0x2e0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_macro   0x00006342       0xc0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_macro   0x00006402      0x2da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_macro   0x000066dc      0x2da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_macro   0x000069b6      0x2da C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_line     0x00000000     0x452e
+ .debug_line    0x00000000      0x742 ./src/ADC.o
+ .debug_line    0x00000742       0xf8 ./src/cr_startup_lpc43xx.o
+ .debug_line    0x0000083a      0x80d ./src/edu-ciaa.o
+ .debug_line    0x00001047      0x5ca ./src/sysinit.o
+ .debug_line    0x00001611      0x716 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_line    0x00001d27      0x62f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_line    0x00002356      0xa2e C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_line    0x00002d84      0x1db C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_line    0x00002f5f      0x69d C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_line    0x000035fc      0x626 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_line    0x00003c22      0x90c C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+
+.debug_str      0x00000000    0x1806d
+ .debug_str     0x00000000    0x169ef ./src/ADC.o
+                              0x16b54 (size before relaxing)
+ .debug_str     0x000169ef      0x1f2 ./src/cr_startup_lpc43xx.o
+                               0x2f4a (size before relaxing)
+ .debug_str     0x00016be1      0x33b ./src/edu-ciaa.o
+                              0x165e4 (size before relaxing)
+ .debug_str     0x00016f1c       0x1b ./src/sysinit.o
+                              0x162a7 (size before relaxing)
+ .debug_str     0x00016f37      0x343 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+                              0x16085 (size before relaxing)
+ .debug_str     0x0001727a      0x267 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+                              0x1655d (size before relaxing)
+ .debug_str     0x000174e1      0x605 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+                              0x16adc (size before relaxing)
+ .debug_str     0x00017ae6       0xb5 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+                               0xa0b2 (size before relaxing)
+ .debug_str     0x00017b9b       0xe7 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+                              0x1653c (size before relaxing)
+ .debug_str     0x00017c82       0xc0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+                              0x15d69 (size before relaxing)
+ .debug_str     0x00017d42      0x32b C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+                              0x166a0 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e ./src/ADC.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f ./src/cr_startup_lpc43xx.o
+ .comment       0x0000007e       0x7f ./src/edu-ciaa.o
+ .comment       0x0000007e       0x7f ./src/sysinit.o
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .comment       0x0000007e       0x7f C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .comment       0x0000007e       0x7f c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+ .comment       0x0000007e       0x7f c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x37 ./src/ADC.o
+ .ARM.attributes
+                0x00000037       0x37 ./src/cr_startup_lpc43xx.o
+ .ARM.attributes
+                0x0000006e       0x37 ./src/edu-ciaa.o
+ .ARM.attributes
+                0x000000a5       0x37 ./src/sysinit.o
+ .ARM.attributes
+                0x000000dc       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .ARM.attributes
+                0x00000113       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .ARM.attributes
+                0x0000014a       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .ARM.attributes
+                0x00000181       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .ARM.attributes
+                0x000001b8       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .ARM.attributes
+                0x000001ef       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .ARM.attributes
+                0x00000226       0x37 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
+ .ARM.attributes
+                0x0000025d       0x37 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000294       0x37 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/softfp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000002cb       0x25 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x000002f0       0x25 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000315       0x25 c:/nxp/mcuxpressoide_10.2.0_759/ide/tools/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/softfp\libcr_eabihelpers.a(memcpy.o)
+
+.debug_frame    0x00000000     0x169c
+ .debug_frame   0x00000000      0x234 ./src/ADC.o
+ .debug_frame   0x00000234      0x170 ./src/cr_startup_lpc43xx.o
+ .debug_frame   0x000003a4      0x37c ./src/edu-ciaa.o
+ .debug_frame   0x00000720       0x34 ./src/sysinit.o
+ .debug_frame   0x00000754      0x264 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(adc_18xx_43xx.o)
+ .debug_frame   0x000009b8       0xa0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(chip_18xx_43xx.o)
+ .debug_frame   0x00000a58      0x568 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(clock_18xx_43xx.o)
+ .debug_frame   0x00000fc0       0x38 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(fpu_init.o)
+ .debug_frame   0x00000ff8       0xf4 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(sysinit_18xx_43xx.o)
+ .debug_frame   0x000010ec       0xd0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(timer_18xx_43xx.o)
+ .debug_frame   0x000011bc      0x4e0 C:\Users\Fabia\Documents\workspace\lpc_chip_43xx\Debug\liblpc_chip_43xx.a(uart_18xx_43xx.o)
