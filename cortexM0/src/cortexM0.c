@@ -76,7 +76,7 @@ int main(void)
  	while (1) {
  		if(RingBuffer_GetCount(&rxring) == 12){
 
- 			msg.id.cpu = CPUID_M0APP;
+ 			msg.id.cpu = CPUID_M4;
  			msg.id.pid = PID_Update;
  			Chip_UART_ReadRB(LPC_USART2, &rxring, &msg.pid, 12);
  			IPC_tryPushMsg(msg.id.cpu, &msg);
