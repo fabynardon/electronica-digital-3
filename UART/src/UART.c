@@ -14,7 +14,7 @@ typedef struct {
 } PID_T;
 
 void UART2_IRQHandler(void){
-
+	//Comentario
 	Chip_UART_IRQRBHandler(LPC_USART2, &rxring, &txring);
 }
 
